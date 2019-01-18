@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication2", "MFCApplication2\MFCApplication2.vcxproj", "{B4514FDC-97D8-4C3A-80E3-05E4835530D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luahello", "luahello\luahello\luahello.vcxproj", "{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Debug|x64.ActiveCfg = Debug|x64
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Debug|x64.Build.0 = Debug|x64
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Debug|x86.Build.0 = Debug|Win32
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Release|x64.ActiveCfg = Release|x64
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Release|x64.Build.0 = Release|x64
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Release|x86.ActiveCfg = Release|Win32
+		{B4514FDC-97D8-4C3A-80E3-05E4835530D2}.Release|x86.Build.0 = Release|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Debug|x64.ActiveCfg = Debug|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Debug|x86.Build.0 = Debug|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Release|x64.ActiveCfg = Release|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Release|x86.ActiveCfg = Release|Win32
+		{77CB27D2-8CCA-4957-BCF5-6A93E6A75AB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB0356D-CA7A-4AA8-9758-ABDB502424F8}
+	EndGlobalSection
+EndGlobal
